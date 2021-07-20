@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="hotels-ui/src/main/res/drawable/ic_fb.xml" value="0.42" />
+        <entry key="hotels-ui/src/main/res/drawable/ic_google.xml" value="0.42" />
+      </map>
+    </option>
+  </component>
+</application>
