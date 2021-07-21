@@ -2,6 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.26197916666666665" />
+        <entry key="design_core/src/main/res/layout/view_tutu_toolbar.xml" value="0.23541666666666666" />
         <entry key="feed_solution/src/main/res/layout/fdsn_fragment_feed.xml" value="0.1" />
         <entry key="hotels-ui/src/main/res/drawable/ic_fb.xml" value="0.42" />
         <entry key="hotels-ui/src/main/res/drawable/ic_google.xml" value="0.42" />
@@ -13,6 +15,7 @@
         <entry key="sample_app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.25052083333333336" />
         <entry key="sample_app/src/main/res/layout/htsn_activity_sample.xml" value="0.1" />
         <entry key="sample_app/src/main/res/layout/sh_activity_sample.xml" value="0.23541666666666666" />
+        <entry key="train_order_details/src/main/res/layout/fragment_order_details.xml" value="0.23541666666666666" />
         <entry key="tutu_next_trip/src/main/res/layout/view_next_trip.xml" value="0.5581591830134969" />
       </map>
     </option>
