@@ -2,9 +2,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="feed_solution/src/main/res/layout/fdsn_fragment_feed.xml" value="0.1" />
         <entry key="hotels-ui/src/main/res/drawable/ic_fb.xml" value="0.42" />
         <entry key="hotels-ui/src/main/res/drawable/ic_google.xml" value="0.42" />
         <entry key="sample/src/main/res/layout/activity_main.xml" value="0.2001013171225937" />
+        <entry key="sample_app/src/main/res/layout/htsn_activity_sample.xml" value="0.1" />
         <entry key="sample_app/src/main/res/layout/sh_activity_sample.xml" value="0.23541666666666666" />
       </map>
     </option>
