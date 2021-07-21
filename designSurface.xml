@@ -3,6 +3,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.26197916666666665" />
+        <entry key="bus_wizard/src/main/res/layout/view_route_segment.xml" value="0.23541666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_activity_route_details.xml" value="0.19791666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_activity_route_points.xml" value="0.23541666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_item_route_point_top.xml" value="0.23541666666666666" />
         <entry key="design_core/src/main/res/layout/view_tutu_toolbar.xml" value="0.23541666666666666" />
         <entry key="feed_solution/src/main/res/layout/fdsn_fragment_feed.xml" value="0.1" />
         <entry key="hotels-ui/src/main/res/drawable/ic_fb.xml" value="0.42" />
