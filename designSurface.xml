@@ -16,6 +16,8 @@
         <entry key="sample_app/src/main/res/layout/htsn_activity_sample.xml" value="0.1" />
         <entry key="sample_app/src/main/res/layout/sh_activity_sample.xml" value="0.23541666666666666" />
         <entry key="train_order_details/src/main/res/layout/fragment_order_details.xml" value="0.23541666666666666" />
+        <entry key="train_wizard/src/main/res/layout/wizard_train_fragment_new_schedule_search.xml" value="0.36817023220949213" />
+        <entry key="train_wizard/src/main/res/layout/wizard_train_item_waitscreen_progress.xml" value="0.23541666666666666" />
         <entry key="tutu_next_trip/src/main/res/layout/view_next_trip.xml" value="0.5581591830134969" />
       </map>
     </option>
