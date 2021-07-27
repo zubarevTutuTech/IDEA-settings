@@ -1,0 +1,39 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.26197916666666665" />
+        <entry key="../../.gradle/caches/transforms-3/5dce41ab76d944b4af0063cebda1e775/transformed/jetified-feed_solution-1.1.0/res/drawable/fdsn_ic_feed_person_dude.xml" value="0.24322916666666666" />
+        <entry key="bus_wizard/src/main/res/layout/view_route_segment.xml" value="0.23541666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_activity_route_details.xml" value="0.19791666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_activity_route_points.xml" value="0.23541666666666666" />
+        <entry key="bus_wizard/src/main/res/layout/wizard_bus_item_route_point_top.xml" value="0.23541666666666666" />
+        <entry key="design_core/src/main/res/layout/view_tutu_toolbar.xml" value="0.23541666666666666" />
+        <entry key="feed/src/main/res/layout/htsn_fragment_feed.xml" value="0.3314814814814815" />
+        <entry key="feed_ratings/src/main/res/drawable/fdrt_ic_no_internet.xml" value="0.39537037037037037" />
+        <entry key="feed_solution/src/main/res/drawable/fdsn_ic_feed_person_dude.xml" value="0.42" />
+        <entry key="feed_solution/src/main/res/drawable/fdsn_ic_feed_person_girl.xml" value="0.42" />
+        <entry key="feed_solution/src/main/res/layout/fdsn_fragment_feed.xml" value="0.1" />
+        <entry key="feed_solution/src/main/res/layout/fdsn_item_feed_info.xml" value="0.6211267605633802" />
+        <entry key="hotels-ui/src/main/res/drawable/ic_fb.xml" value="0.42" />
+        <entry key="hotels-ui/src/main/res/drawable/ic_google.xml" value="0.42" />
+        <entry key="hotels-ui/src/main/res/layout/htsn_fragment_feed.xml" value="0.40185185185185185" />
+        <entry key="ptt_app/src/main/res/drawable-v23/support.xml" value="0.25052083333333336" />
+        <entry key="ptt_app/src/main/res/drawable/support.xml" value="0.25052083333333336" />
+        <entry key="sample/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="sample/src/main/res/layout/activity_main.xml" value="0.2001013171225937" />
+        <entry key="sample/src/main/res/mipmap-anydpi-v26/htsn_ic_launcher.xml" value="0.25052083333333336" />
+        <entry key="sample/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25052083333333336" />
+        <entry key="sample/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25052083333333336" />
+        <entry key="sample_app/src/main/res/drawable/ic_launcher_background.xml" value="0.25052083333333336" />
+        <entry key="sample_app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.42" />
+        <entry key="sample_app/src/main/res/layout/htsn_activity_sample.xml" value="0.1" />
+        <entry key="sample_app/src/main/res/layout/sh_activity_sample.xml" value="0.23541666666666666" />
+        <entry key="train_order_details/src/main/res/layout/fragment_order_details.xml" value="0.23541666666666666" />
+        <entry key="train_wizard/src/main/res/layout/wizard_train_fragment_new_schedule_search.xml" value="0.36817023220949213" />
+        <entry key="train_wizard/src/main/res/layout/wizard_train_item_waitscreen_progress.xml" value="0.23541666666666666" />
+        <entry key="tutu_next_trip/src/main/res/layout/view_next_trip.xml" value="0.5581591830134969" />
+      </map>
+    </option>
+  </component>
+</application>
