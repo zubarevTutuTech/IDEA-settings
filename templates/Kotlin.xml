@@ -1,0 +1,10 @@
+<templateSet group="Kotlin">
+  <template name="sername" value="@SerialName(&quot;$PARAM1$&quot;)&#10;val $PARAM2$: $PARAM2TYPE$," description="Create @SerialName val property" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM2TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
