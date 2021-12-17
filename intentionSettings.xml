@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Remove explicit type specification" />
+  </component>
+</application>
