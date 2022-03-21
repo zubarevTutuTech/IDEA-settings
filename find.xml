@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="Project 'android-core'" />
+    <option name="defaultScopeName" value="Project 'android-core'" />
+    <option name="SEARCH_SCOPE" value="Project 'android-core'" />
     <mask>*.xml</mask>
     <mask>*.json</mask>
   </component>
