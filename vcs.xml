@@ -50,6 +50,14 @@
           <option name="url" value="https://zubarev@stash.tutu.ru/scm/projects/projects-updates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tutu-ru-mobile/temp_workshop_superapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tutu-ru-mobile/temp_workshop_evgenii.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
