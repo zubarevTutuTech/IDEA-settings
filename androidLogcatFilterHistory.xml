@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:UserWay unknown" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UserWay unknown" />
+        <option value="package:mine tag:UserWay " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine SendAnalyticEvent: UserWay" />
