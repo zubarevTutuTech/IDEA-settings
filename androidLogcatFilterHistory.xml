@@ -1,10 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine tag:UserWay hotels_details_rooms_show" />
+        <option value="package:mine tag:UserWay unknown" />
+      </list>
+    </option>
     <option name="mostRecentlyUsed" value="package:mine curl" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine curl" />
-        <option value="package:mine tag:UserWay unknown" />
+        <option value="package:mine tag:UserWay" />
         <option value="package:mine tag:UserWay " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
