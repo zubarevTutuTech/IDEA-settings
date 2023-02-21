@@ -6,16 +6,16 @@
         <option value="package:mine tag:UserWay unknown" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine Event: hotels_" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine Event: hotels_" />
         <option value="package:mine" />
         <option value="package:mine userwa" />
         <option value="package:mine tag:UserWay" />
         <option value="package:mine lev" />
         <option value="package:mine curl" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag:UserWay " />
         <option value="package:mine SendAnalyticEvent: UserWay" />
         <option value="package:mine se" />
