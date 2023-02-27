@@ -10,6 +10,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine curl" />
+        <option value="package:ru.tutu.feed" />
+        <option value="package:ru.tutu.tutu_emp" />
         <option value="package:mine level:error " />
         <option value="package:mine Event: hotels_" />
         <option value="package:mine" />
