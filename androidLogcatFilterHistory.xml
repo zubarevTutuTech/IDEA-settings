@@ -6,15 +6,15 @@
         <option value="package:mine tag:UserWay unknown" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug MY_SUPER_TAG" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine level:debug MY_SUPER_TAG" />
         <option value="package:mine level:debug " />
         <option value="package:mine level:debug HotelDetailsFooterUiModel" />
         <option value="package:mine level:debug FooterState" />
         <option value="package:mine" />
-        <option value="package:mine level:error " />
         <option value="package:mine curl" />
         <option value="package:mine userway" />
         <option value="package:ru.tutu.feed" />
