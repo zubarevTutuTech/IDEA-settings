@@ -6,13 +6,13 @@
         <option value="package:mine tag:UserWay unknown" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine curl" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine curl" />
         <option value="package:mine userway" />
         <option value="package:mine" />
-        <option value="package:mine level:error " />
         <option value="package:ru.tutu.feed" />
         <option value="package:ru.tutu.tutu_emp" />
         <option value="package:mine Event: hotels_" />
